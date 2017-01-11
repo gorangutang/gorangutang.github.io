@@ -1,14 +1,22 @@
-.jumbotron {
-  background-color: #111;
-}
-.navbar {
-  background-color: #111;
-}
-.navbar-inverse .navbar-brand {
+.navbar-brand {
   font-family: 'Bungee Shade';
   font-size: 36px;
-  color: #ff3061;
-  padding-top: 20px;
+  color: #ffffff;
+  padding-top: 10px;
+}
+#wrapper {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100px;
+  font-family: 'Bungee Shade';
+  font-size: 80px;
+  color: #00008B;
+}
+.jumbotron {
+  background-color: #6495ED;
+}
+.navbar {
+  background-color: #6495ED;
 }
 .btn-primary {
 
