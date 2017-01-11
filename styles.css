@@ -4,6 +4,12 @@
 .navbar {
   background-color: #111;
 }
+.navbar-inverse .navbar-brand {
+  font-family: 'Bungee Shade';
+  font-size: 36px;
+  color: #ff3061;
+  padding-top: 20px;
+}
 .btn-primary {
 
 }
