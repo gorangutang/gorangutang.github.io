@@ -1,8 +1,11 @@
-.navbar-brand {
+.navbar-header .navbar-brand {
   font-family: 'Bungee Shade';
   font-size: 36px;
-  color: #ffffff;
+  color: #FFFFFF;
   padding-top: 10px;
+}
+#navbartext {
+  color: #FFFFFF;
 }
 #wrapper {
   text-align: center;
@@ -10,13 +13,14 @@
   line-height: 100px;
   font-family: 'Bungee Shade';
   font-size: 80px;
-  color: #00008B;
+  color: #000080;
 }
 .jumbotron {
-  background-color: #6495ED;
+  background-color: #000080;
+  color: #FFFFFF;
 }
 .navbar {
-  background-color: #6495ED;
+  background-color: #000080;
 }
 .btn-primary {
 
