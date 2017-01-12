@@ -19,9 +19,17 @@
   background-color: #000080;
   color: #FFFFFF;
 }
+h2 {
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
 .navbar {
   background-color: #000080;
 }
-.btn-primary {
-
+#centerpic {
+  padding-left: 120px
+}
+.maintext {
+  padding-left: 120px
 }
